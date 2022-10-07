@@ -2,6 +2,8 @@
 
 Lists of underrated tools to use and more. 
 
+* Online converter from JSON to Go struct
+> https://mholt.github.io/json-to-go/
 * Fieldalignment: A part of gotools and govet linter, `fieldalignment` prints out misaligned structs and the current/ideal size of struct.
 > https://pkg.go.dev/golang.org/x/tools/go/analysis/passes/fieldalignment/cmd/fieldalignment
 ```bash
