@@ -2,6 +2,10 @@
 
 Lists of underrated tools to use and more. 
 
+* Golang Vulnerability: https://vuln.go.dev/  
+```
+$ go install golang.org/x/vuln/cmd/govulncheck@latest
+```
 * Golang updates
 > https://github.com/golang/dl
 ```
