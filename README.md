@@ -2,6 +2,7 @@
 
 Lists of underrated tools to use and more. 
 
+* `go:embed` provides access to files embedded in the running Go program (like bo-bindata) https://pkg.go.dev/embed
 * Golang Vulnerability: https://vuln.go.dev/  
 ```
 $ go install golang.org/x/vuln/cmd/govulncheck@latest
