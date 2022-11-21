@@ -2,6 +2,7 @@
 
 Lists of underrated tools to use and more. 
 
+* Structured logger https://pkg.go.dev/golang.org/x/exp/slog ([see the live presentaion](https://www.youtube.com/watch?v=gd_Vyb5vEw0))
 * `go:embed` provides access to files embedded in the running Go program (like bo-bindata) https://pkg.go.dev/embed
 * Golang Vulnerability: https://vuln.go.dev/  
 ```
