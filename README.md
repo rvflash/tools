@@ -2,6 +2,10 @@
 
 Lists of underrated tools to use and more. 
 
+* Package documentation is now managed by `pkgsite` (previously `godoc`). Install it with the following command and then, in the project root , launch this command: `pkgsite`. It launches a website on http://localhost:8080 to explore the packages documentation. 
+```
+go install golang.org/x/pkgsite/cmd/pkgsite@latest
+```
 * Structured logger https://pkg.go.dev/golang.org/x/exp/slog ([see the live presentaion](https://www.youtube.com/watch?v=gd_Vyb5vEw0))
 * `go:embed` provides access to files embedded in the running Go program (like bo-bindata) https://pkg.go.dev/embed
 * Golang Vulnerability: https://vuln.go.dev/  
